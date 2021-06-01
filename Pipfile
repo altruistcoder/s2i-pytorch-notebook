@@ -32,8 +32,9 @@ seaborn = "*"
 sqlalchemy = "*"
 statsmodels = "*"
 tensorboard = "<2.0"
-torch = "==1.6.0"
-torchvision = "==0.7.0"
+torch = "==1.7.1"
+torchaudio = "==0.7.2"
+torchvision = "==0.8.2"
 
 [requires]
 python_version = "3.8"
